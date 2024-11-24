@@ -1,0 +1,6 @@
+D:\Real Life Projects with C# windowsform\GymManagement\SourceCode\DataLayer\bin\Debug\DataLayer.dll
+D:\Real Life Projects with C# windowsform\GymManagement\SourceCode\DataLayer\bin\Debug\DataLayer.pdb
+D:\Real Life Projects with C# windowsform\GymManagement\SourceCode\DataLayer\obj\Debug\DataLayer.csproj.AssemblyReference.cache
+D:\Real Life Projects with C# windowsform\GymManagement\SourceCode\DataLayer\obj\Debug\DataLayer.csproj.CoreCompileInputs.cache
+D:\Real Life Projects with C# windowsform\GymManagement\SourceCode\DataLayer\obj\Debug\DataLayer.dll
+D:\Real Life Projects with C# windowsform\GymManagement\SourceCode\DataLayer\obj\Debug\DataLayer.pdb

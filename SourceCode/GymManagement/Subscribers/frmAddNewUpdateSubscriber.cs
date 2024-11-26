@@ -32,7 +32,8 @@ namespace GymManagement.Subscribers
         clsSubscriberAccounts _SubscriberAccount;
         int _AccountID = -1;
         decimal _TrainerFee = 0;
-        decimal _SubscribeAmount = 0; 
+        decimal _SubscribeAmount = 0;
+        decimal _TotalSubscriberAmount = 0;
         public frmAddNewUpdateSubscriber()
         {
             InitializeComponent();
@@ -107,6 +108,7 @@ namespace GymManagement.Subscribers
             dtpDateOfBirth.Value = dtpDateOfBirth.MaxDate;
             dtpDateOfBirth.MinDate = DateTime.Now.AddYears(-100);
             cbCountry.SelectedIndex = cbCountry.FindString("Algeria");
+            cbSubscribeTypesName.SelectedIndex = cbCountry.FindString("Standard Subscription");
             cbSubscribeTypesName.SelectedIndex = 0;
             llRemoveImage.Visible = (pbPersonImage.ImageLocation != null);
             lblSubscribeStartDate.Text = clsDataFormat.DateToShort(DateTime.Now);
@@ -146,6 +148,7 @@ namespace GymManagement.Subscribers
             txtAddress.Text = _SubscriberAccount.PersonInfo.address;
             txtPhone.Text = _SubscriberAccount.PersonInfo.PhoneNumber;
             dtpDateOfBirth.Value = _SubscriberAccount.PersonInfo.BirthDay;
+            _Person = _SubscriberAccount.PersonInfo;
             if (_SubscriberAccount.PersonInfo.Gender == 0)
                 rbMale.Enabled = true;
             else { 
@@ -254,7 +257,7 @@ namespace GymManagement.Subscribers
             }
             //Make Sure NationalNo Not Use it 
             //if we are in Update Mode               if we are in add  New Mode will Check is have person with National No
-            if (txtNationalNo.Text.Trim() != _Person.NationalNO && clsPerson.IsPersonExistByNationalNo(txtNationalNo.Text.Trim()))
+            if ((Mode != enMode.Update)&& txtNationalNo.Text.Trim() != _Person.NationalNO && clsPerson.IsPersonExistByNationalNo(txtNationalNo.Text.Trim()))
 
             {
                 e.Cancel = true;
@@ -360,10 +363,10 @@ namespace GymManagement.Subscribers
                     _TrainerFee = 0;
 
                 }
-                _SubscriberAccount.SubscribeID = cbSubscribeTypesName.SelectedIndex + 1;
+                _SubscriberAccount.SubscribeID = clsSubscriptions.FindSubscriptionInfoBySubscribeName(cbSubscribeTypesName.SelectedItem.ToString()).SubscribeID;
                 _SubscribeAmount = clsSubscriptions.GetSubscribeAmountByID(cbSubscribeTypesName.SelectedIndex + 1);
 
-                _SubscriberAccount.SubscribeMonthAmount = _SubscribeAmount + _TrainerFee; 
+                _SubscriberAccount.SubscribeMonthAmount = _TotalSubscriberAmount; 
            
 
 
@@ -428,9 +431,12 @@ namespace GymManagement.Subscribers
 
         private void cbSubscribeTypesName_SelectedIndexChanged(object sender, EventArgs e)
         {
-            if(Mode == enMode.AddNew) 
-           _SubscribeAmount =  clsSubscriptions.FindSubscriptionInfoByID(cbSubscribeTypesName.SelectedIndex+1).SubscribeFee;
+            if (Mode == enMode.AddNew)
+                _SubscribeAmount = clsSubscriptions.FindSubscriptionInfoBySubscribeName(cbSubscribeTypesName.SelectedItem.ToString()).SubscribeFee;
+
+
             lblTotalAmount.Text = (_SubscribeAmount + _TrainerFee).ToString()  ;
+            _TotalSubscriberAmount = decimal.Parse( lblTotalAmount.Text);
         }
     }
     }

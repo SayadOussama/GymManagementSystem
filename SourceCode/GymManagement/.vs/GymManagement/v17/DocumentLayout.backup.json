@@ -3,6 +3,50 @@
   "WorkspaceRootPath": "D:\\Real Life Projects with C# windowsform\\GymManagement\\SourceCode\\GymManagement\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9D719979-97A1-40A7-80DE-13DCBB8FEFCF}|..\\..\\..\\ctrlPersonCard\\ctrlPersonCard\\ctrlPersonCard.csproj|d:\\real life projects with c# windowsform\\ctrlpersoncard\\ctrlpersoncard\\ctrlpersoncard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D719979-97A1-40A7-80DE-13DCBB8FEFCF}|..\\..\\..\\ctrlPersonCard\\ctrlPersonCard\\ctrlPersonCard.csproj|d:\\real life projects with c# windowsform\\ctrlpersoncard\\ctrlpersoncard\\ctrlpersoncard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1AECF99-AB26-4D28-9990-8E7EC55B4EB8}|GymManagement.csproj|D:\\Real Life Projects with C# windowsform\\GymManagement\\SourceCode\\GymManagement\\subscribers\\frmaddnewupdatesubscriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1AECF99-AB26-4D28-9990-8E7EC55B4EB8}|GymManagement.csproj|solutionrelative:subscribers\\frmaddnewupdatesubscriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1AECF99-AB26-4D28-9990-8E7EC55B4EB8}|GymManagement.csproj|D:\\Real Life Projects with C# windowsform\\GymManagement\\SourceCode\\GymManagement\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1AECF99-AB26-4D28-9990-8E7EC55B4EB8}|GymManagement.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1AECF99-AB26-4D28-9990-8E7EC55B4EB8}|GymManagement.csproj|D:\\Real Life Projects with C# windowsform\\GymManagement\\SourceCode\\GymManagement\\subscribers\\frmaddnewupdatesubscriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E1AECF99-AB26-4D28-9990-8E7EC55B4EB8}|GymManagement.csproj|solutionrelative:subscribers\\frmaddnewupdatesubscriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00BCC7F1-DD46-4040-B18C-798CA0754386}|..\\DataLayer\\DataLayer.csproj|d:\\real life projects with c# windowsform\\gymmanagement\\sourcecode\\datalayer\\clsdatasubscriptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1AECF99-AB26-4D28-9990-8E7EC55B4EB8}|GymManagement.csproj|D:\\Real Life Projects with C# windowsform\\GymManagement\\SourceCode\\GymManagement\\trainerandtrainertype\\frmaddupdatetrainerandtrainertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1AECF99-AB26-4D28-9990-8E7EC55B4EB8}|GymManagement.csproj|solutionrelative:trainerandtrainertype\\frmaddupdatetrainerandtrainertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1AECF99-AB26-4D28-9990-8E7EC55B4EB8}|GymManagement.csproj|D:\\Real Life Projects with C# windowsform\\GymManagement\\SourceCode\\GymManagement\\subscribers\\controls\\ctrlfindsubscriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1AECF99-AB26-4D28-9990-8E7EC55B4EB8}|GymManagement.csproj|solutionrelative:subscribers\\controls\\ctrlfindsubscriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E0F46BC-7BA5-41FD-9462-8001420DBAD0}|..\\BusinessLayer\\BusinessLayer.csproj|d:\\real life projects with c# windowsform\\gymmanagement\\sourcecode\\businesslayer\\clssubscriptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1AECF99-AB26-4D28-9990-8E7EC55B4EB8}|GymManagement.csproj|D:\\Real Life Projects with C# windowsform\\GymManagement\\SourceCode\\GymManagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1AECF99-AB26-4D28-9990-8E7EC55B4EB8}|GymManagement.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1AECF99-AB26-4D28-9990-8E7EC55B4EB8}|GymManagement.csproj|D:\\Real Life Projects with C# windowsform\\GymManagement\\SourceCode\\GymManagement\\trainerandtrainertype\\frmaddupdatetrainerandtrainertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E1AECF99-AB26-4D28-9990-8E7EC55B4EB8}|GymManagement.csproj|solutionrelative:trainerandtrainertype\\frmaddupdatetrainerandtrainertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1AECF99-AB26-4D28-9990-8E7EC55B4EB8}|GymManagement.csproj|D:\\Real Life Projects with C# windowsform\\GymManagement\\SourceCode\\GymManagement\\globalclasses\\clsdataformat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1AECF99-AB26-4D28-9990-8E7EC55B4EB8}|GymManagement.csproj|solutionrelative:globalclasses\\clsdataformat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E1AECF99-AB26-4D28-9990-8E7EC55B4EB8}|GymManagement.csproj|D:\\Real Life Projects with C# windowsform\\GymManagement\\SourceCode\\GymManagement\\trainerandtrainertype\\controls\\ctrltrainerdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E1AECF99-AB26-4D28-9990-8E7EC55B4EB8}|GymManagement.csproj|solutionrelative:trainerandtrainertype\\controls\\ctrltrainerdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -19,42 +63,22 @@
       "RelativeMoniker": "D:0:0:{E1AECF99-AB26-4D28-9990-8E7EC55B4EB8}|GymManagement.csproj|solutionrelative:trainerandtrainertype\\frmtrainermanagmentsection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E1AECF99-AB26-4D28-9990-8E7EC55B4EB8}|GymManagement.csproj|D:\\Real Life Projects with C# windowsform\\GymManagement\\SourceCode\\GymManagement\\trainerandtrainertype\\frmaddupdatetrainerandtrainertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{E1AECF99-AB26-4D28-9990-8E7EC55B4EB8}|GymManagement.csproj|solutionrelative:trainerandtrainertype\\frmaddupdatetrainerandtrainertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E1AECF99-AB26-4D28-9990-8E7EC55B4EB8}|GymManagement.csproj|D:\\Real Life Projects with C# windowsform\\GymManagement\\SourceCode\\GymManagement\\trainerandtrainertype\\frmaddupdatetrainerandtrainertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1AECF99-AB26-4D28-9990-8E7EC55B4EB8}|GymManagement.csproj|solutionrelative:trainerandtrainertype\\frmaddupdatetrainerandtrainertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0E0F46BC-7BA5-41FD-9462-8001420DBAD0}|..\\BusinessLayer\\BusinessLayer.csproj|d:\\real life projects with c# windowsform\\gymmanagement\\sourcecode\\businesslayer\\clstrainertypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0E0F46BC-7BA5-41FD-9462-8001420DBAD0}|..\\BusinessLayer\\BusinessLayer.csproj|d:\\real life projects with c# windowsform\\gymmanagement\\sourcecode\\businesslayer\\clstrainers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E1AECF99-AB26-4D28-9990-8E7EC55B4EB8}|GymManagement.csproj|d:\\real life projects with c# windowsform\\gymmanagement\\sourcecode\\gymmanagement\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{E1AECF99-AB26-4D28-9990-8E7EC55B4EB8}|GymManagement.csproj|D:\\Real Life Projects with C# windowsform\\GymManagement\\SourceCode\\GymManagement\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{E1AECF99-AB26-4D28-9990-8E7EC55B4EB8}|GymManagement.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E1AECF99-AB26-4D28-9990-8E7EC55B4EB8}|GymManagement.csproj|D:\\Real Life Projects with C# windowsform\\GymManagement\\SourceCode\\GymManagement\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1AECF99-AB26-4D28-9990-8E7EC55B4EB8}|GymManagement.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E1AECF99-AB26-4D28-9990-8E7EC55B4EB8}|GymManagement.csproj|D:\\Real Life Projects with C# windowsform\\GymManagement\\SourceCode\\GymManagement\\login\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E1AECF99-AB26-4D28-9990-8E7EC55B4EB8}|GymManagement.csproj|solutionrelative:login\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E1AECF99-AB26-4D28-9990-8E7EC55B4EB8}|GymManagement.csproj|D:\\Real Life Projects with C# windowsform\\GymManagement\\SourceCode\\GymManagement\\subscribers\\frmaddnewupdatesubscriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1AECF99-AB26-4D28-9990-8E7EC55B4EB8}|GymManagement.csproj|solutionrelative:subscribers\\frmaddnewupdatesubscriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E1AECF99-AB26-4D28-9990-8E7EC55B4EB8}|GymManagement.csproj|D:\\Real Life Projects with C# windowsform\\GymManagement\\SourceCode\\GymManagement\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E1AECF99-AB26-4D28-9990-8E7EC55B4EB8}|GymManagement.csproj|solutionrelative:mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E1AECF99-AB26-4D28-9990-8E7EC55B4EB8}|GymManagement.csproj|D:\\Real Life Projects with C# windowsform\\GymManagement\\SourceCode\\GymManagement\\subscribers\\frmaddnewupdatesubscriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{E1AECF99-AB26-4D28-9990-8E7EC55B4EB8}|GymManagement.csproj|solutionrelative:subscribers\\frmaddnewupdatesubscriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0E0F46BC-7BA5-41FD-9462-8001420DBAD0}|..\\BusinessLayer\\BusinessLayer.csproj|d:\\real life projects with c# windowsform\\gymmanagement\\sourcecode\\businesslayer\\clssubscriberaccounts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -122,12 +146,6 @@
       "RelativeMoniker": "D:0:0:{E1AECF99-AB26-4D28-9990-8E7EC55B4EB8}|GymManagement.csproj|solutionrelative:users\\ctrlusercard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9D719979-97A1-40A7-80DE-13DCBB8FEFCF}|..\\..\\..\\ctrlPersonCard\\ctrlPersonCard\\ctrlPersonCard.csproj|d:\\real life projects with c# windowsform\\ctrlpersoncard\\ctrlpersoncard\\ctrlpersoncard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D719979-97A1-40A7-80DE-13DCBB8FEFCF}|..\\..\\..\\ctrlPersonCard\\ctrlPersonCard\\ctrlPersonCard.csproj|d:\\real life projects with c# windowsform\\ctrlpersoncard\\ctrlpersoncard\\ctrlpersoncard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E1AECF99-AB26-4D28-9990-8E7EC55B4EB8}|GymManagement.csproj|D:\\Real Life Projects with C# windowsform\\GymManagement\\SourceCode\\GymManagement\\subscriptions\\frmsubscrptiondetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{E1AECF99-AB26-4D28-9990-8E7EC55B4EB8}|GymManagement.csproj|solutionrelative:subscriptions\\frmsubscrptiondetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
@@ -154,10 +172,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{E1AECF99-AB26-4D28-9990-8E7EC55B4EB8}|GymManagement.csproj|D:\\Real Life Projects with C# windowsform\\GymManagement\\SourceCode\\GymManagement\\subscribers\\controls\\ctrlfindsubscriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{E1AECF99-AB26-4D28-9990-8E7EC55B4EB8}|GymManagement.csproj|solutionrelative:subscribers\\controls\\ctrlfindsubscriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E1AECF99-AB26-4D28-9990-8E7EC55B4EB8}|GymManagement.csproj|D:\\Real Life Projects with C# windowsform\\GymManagement\\SourceCode\\GymManagement\\subscribers\\controls\\ctrlfindsubscriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1AECF99-AB26-4D28-9990-8E7EC55B4EB8}|GymManagement.csproj|solutionrelative:subscribers\\controls\\ctrlfindsubscriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E1AECF99-AB26-4D28-9990-8E7EC55B4EB8}|GymManagement.csproj|D:\\Real Life Projects with C# windowsform\\GymManagement\\SourceCode\\GymManagement\\subscribers\\controls\\ctrlfindsubscriber.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -196,10 +210,6 @@
       "AbsoluteMoniker": "D:0:0:{0E0F46BC-7BA5-41FD-9462-8001420DBAD0}|..\\BusinessLayer\\BusinessLayer.csproj|d:\\real life projects with c# windowsform\\gymmanagement\\sourcecode\\businesslayer\\clsperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E1AECF99-AB26-4D28-9990-8E7EC55B4EB8}|GymManagement.csproj|D:\\Real Life Projects with C# windowsform\\GymManagement\\SourceCode\\GymManagement\\globalclasses\\clsdataformat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1AECF99-AB26-4D28-9990-8E7EC55B4EB8}|GymManagement.csproj|solutionrelative:globalclasses\\clsdataformat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E1AECF99-AB26-4D28-9990-8E7EC55B4EB8}|GymManagement.csproj|D:\\Real Life Projects with C# windowsform\\GymManagement\\SourceCode\\GymManagement\\globalclasses\\util.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E1AECF99-AB26-4D28-9990-8E7EC55B4EB8}|GymManagement.csproj|solutionrelative:globalclasses\\util.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -211,18 +221,11 @@
       "AbsoluteMoniker": "D:0:0:{0E0F46BC-7BA5-41FD-9462-8001420DBAD0}|..\\BusinessLayer\\BusinessLayer.csproj|d:\\real life projects with c# windowsform\\gymmanagement\\sourcecode\\businesslayer\\clsusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E1AECF99-AB26-4D28-9990-8E7EC55B4EB8}|GymManagement.csproj|D:\\Real Life Projects with C# windowsform\\GymManagement\\SourceCode\\GymManagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1AECF99-AB26-4D28-9990-8E7EC55B4EB8}|GymManagement.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E1AECF99-AB26-4D28-9990-8E7EC55B4EB8}|GymManagement.csproj|D:\\Real Life Projects with C# windowsform\\GymManagement\\SourceCode\\GymManagement\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{E1AECF99-AB26-4D28-9990-8E7EC55B4EB8}|GymManagement.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{00BCC7F1-DD46-4040-B18C-798CA0754386}|..\\DataLayer\\DataLayer.csproj|d:\\real life projects with c# windowsform\\gymmanagement\\sourcecode\\datalayer\\clsdatetrainers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00BCC7F1-DD46-4040-B18C-798CA0754386}|..\\DataLayer\\DataLayer.csproj|d:\\real life projects with c# windowsform\\gymmanagement\\sourcecode\\datalayer\\clsdatasubscriptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E1AECF99-AB26-4D28-9990-8E7EC55B4EB8}|GymManagement.csproj|D:\\Real Life Projects with C# windowsform\\GymManagement\\SourceCode\\GymManagement\\subscriptions\\frmsubscrptiondetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -231,9 +234,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{E1AECF99-AB26-4D28-9990-8E7EC55B4EB8}|GymManagement.csproj|D:\\Real Life Projects with C# windowsform\\GymManagement\\SourceCode\\GymManagement\\subscriptions\\frmsubscriptionmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E1AECF99-AB26-4D28-9990-8E7EC55B4EB8}|GymManagement.csproj|solutionrelative:subscriptions\\frmsubscriptionmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0E0F46BC-7BA5-41FD-9462-8001420DBAD0}|..\\BusinessLayer\\BusinessLayer.csproj|d:\\real life projects with c# windowsform\\gymmanagement\\sourcecode\\businesslayer\\clssubscriptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E1AECF99-AB26-4D28-9990-8E7EC55B4EB8}|GymManagement.csproj|D:\\Real Life Projects with C# windowsform\\GymManagement\\SourceCode\\GymManagement\\subscriptions\\frmaddupdatesubscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -258,7 +258,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -274,7 +274,205 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ctrlPersonCard.cs",
+              "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\ctrlPersonCard\\ctrlPersonCard\\ctrlPersonCard.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\ctrlPersonCard\\ctrlPersonCard\\ctrlPersonCard.cs",
+              "ToolTip": "D:\\Real Life Projects with C# windowsform\\ctrlPersonCard\\ctrlPersonCard\\ctrlPersonCard.cs",
+              "RelativeToolTip": "..\\..\\..\\ctrlPersonCard\\ctrlPersonCard\\ctrlPersonCard.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAhwHEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T19:52:42.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmAddNewUpdateSubscriber.cs",
+              "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\GymManagement\\SourceCode\\GymManagement\\Subscribers\\frmAddNewUpdateSubscriber.cs",
+              "RelativeDocumentMoniker": "Subscribers\\frmAddNewUpdateSubscriber.cs",
+              "ToolTip": "D:\\Real Life Projects with C# windowsform\\GymManagement\\SourceCode\\GymManagement\\Subscribers\\frmAddNewUpdateSubscriber.cs",
+              "RelativeToolTip": "Subscribers\\frmAddNewUpdateSubscriber.cs",
+              "ViewState": "AgIAAP0AAAAAAAAAAAAUwLYBAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T11:15:19.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ctrlFindSubscriber.cs",
+              "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\GymManagement\\SourceCode\\GymManagement\\Subscribers\\Controls\\ctrlFindSubscriber.cs",
+              "RelativeDocumentMoniker": "Subscribers\\Controls\\ctrlFindSubscriber.cs",
+              "ToolTip": "D:\\Real Life Projects with C# windowsform\\GymManagement\\SourceCode\\GymManagement\\Subscribers\\Controls\\ctrlFindSubscriber.cs",
+              "RelativeToolTip": "Subscribers\\Controls\\ctrlFindSubscriber.cs",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAlwIUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T11:29:27.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmAddNewUpdateSubscriber.cs [Design]",
+              "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\GymManagement\\SourceCode\\GymManagement\\Subscribers\\frmAddNewUpdateSubscriber.cs",
+              "RelativeDocumentMoniker": "Subscribers\\frmAddNewUpdateSubscriber.cs",
+              "ToolTip": "D:\\Real Life Projects with C# windowsform\\GymManagement\\SourceCode\\GymManagement\\Subscribers\\frmAddNewUpdateSubscriber.cs [Design]",
+              "RelativeToolTip": "Subscribers\\frmAddNewUpdateSubscriber.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T15:37:28.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "clsSubscriptions.cs",
+              "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\GymManagement\\SourceCode\\BusinessLayer\\clsSubscriptions.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLayer\\clsSubscriptions.cs",
+              "ToolTip": "D:\\Real Life Projects with C# windowsform\\GymManagement\\SourceCode\\BusinessLayer\\clsSubscriptions.cs",
+              "RelativeToolTip": "..\\BusinessLayer\\clsSubscriptions.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADIAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T22:21:58.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ctrlPersonCard.cs [Design]",
+              "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\ctrlPersonCard\\ctrlPersonCard\\ctrlPersonCard.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\ctrlPersonCard\\ctrlPersonCard\\ctrlPersonCard.cs",
+              "ToolTip": "D:\\Real Life Projects with C# windowsform\\ctrlPersonCard\\ctrlPersonCard\\ctrlPersonCard.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\ctrlPersonCard\\ctrlPersonCard\\ctrlPersonCard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T19:38:04.291Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\GymManagement\\SourceCode\\GymManagement\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Real Life Projects with C# windowsform\\GymManagement\\SourceCode\\GymManagement\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAlwBAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T19:15:09.703Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\GymManagement\\SourceCode\\GymManagement\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "D:\\Real Life Projects with C# windowsform\\GymManagement\\SourceCode\\GymManagement\\MainForm.cs",
+              "RelativeToolTip": "MainForm.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAnwDkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T19:08:56.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmAddUpdateTrainerAndTrainerType.cs",
+              "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\GymManagement\\SourceCode\\GymManagement\\TrainerAndTrainerType\\frmAddUpdateTrainerAndTrainerType.cs",
+              "RelativeDocumentMoniker": "TrainerAndTrainerType\\frmAddUpdateTrainerAndTrainerType.cs",
+              "ToolTip": "D:\\Real Life Projects with C# windowsform\\GymManagement\\SourceCode\\GymManagement\\TrainerAndTrainerType\\frmAddUpdateTrainerAndTrainerType.cs",
+              "RelativeToolTip": "TrainerAndTrainerType\\frmAddUpdateTrainerAndTrainerType.cs",
+              "ViewState": "AgIAAAYBAAAAAAAAAAAuwCIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T13:50:22.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "frmTrainerManagmentSection.cs [Design]",
+              "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\GymManagement\\SourceCode\\GymManagement\\TrainerAndTrainerType\\frmTrainerManagmentSection.cs",
+              "RelativeDocumentMoniker": "TrainerAndTrainerType\\frmTrainerManagmentSection.cs",
+              "ToolTip": "D:\\Real Life Projects with C# windowsform\\GymManagement\\SourceCode\\GymManagement\\TrainerAndTrainerType\\frmTrainerManagmentSection.cs [Design]",
+              "RelativeToolTip": "TrainerAndTrainerType\\frmTrainerManagmentSection.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T17:12:32.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "clsDataSubscriptions.cs",
+              "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\GymManagement\\SourceCode\\DataLayer\\clsDataSubscriptions.cs",
+              "RelativeDocumentMoniker": "..\\DataLayer\\clsDataSubscriptions.cs",
+              "ToolTip": "D:\\Real Life Projects with C# windowsform\\GymManagement\\SourceCode\\DataLayer\\clsDataSubscriptions.cs",
+              "RelativeToolTip": "..\\DataLayer\\clsDataSubscriptions.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAuwEgAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T21:49:48.932Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 12,
+              "Title": "ctrlTrainerDetails.cs",
+              "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\GymManagement\\SourceCode\\GymManagement\\TrainerAndTrainerType\\Controls\\ctrlTrainerDetails.cs",
+              "RelativeDocumentMoniker": "TrainerAndTrainerType\\Controls\\ctrlTrainerDetails.cs",
+              "ToolTip": "D:\\Real Life Projects with C# windowsform\\GymManagement\\SourceCode\\GymManagement\\TrainerAndTrainerType\\Controls\\ctrlTrainerDetails.cs",
+              "RelativeToolTip": "TrainerAndTrainerType\\Controls\\ctrlTrainerDetails.cs",
+              "ViewState": "AgIAAOEAAAAAAAAAAAAAAOcAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T10:42:58.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmAddUpdateTrainerAndTrainerType.cs [Design]",
+              "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\GymManagement\\SourceCode\\GymManagement\\TrainerAndTrainerType\\frmAddUpdateTrainerAndTrainerType.cs",
+              "RelativeDocumentMoniker": "TrainerAndTrainerType\\frmAddUpdateTrainerAndTrainerType.cs",
+              "ToolTip": "D:\\Real Life Projects with C# windowsform\\GymManagement\\SourceCode\\GymManagement\\TrainerAndTrainerType\\frmAddUpdateTrainerAndTrainerType.cs [Design]",
+              "RelativeToolTip": "TrainerAndTrainerType\\frmAddUpdateTrainerAndTrainerType.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T13:10:17.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "clsDataFormat.cs",
+              "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\GymManagement\\SourceCode\\GymManagement\\GlobalClasses\\clsDataFormat.cs",
+              "RelativeDocumentMoniker": "GlobalClasses\\clsDataFormat.cs",
+              "ToolTip": "D:\\Real Life Projects with C# windowsform\\GymManagement\\SourceCode\\GymManagement\\GlobalClasses\\clsDataFormat.cs",
+              "RelativeToolTip": "GlobalClasses\\clsDataFormat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T10:02:24.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "frmTrainerManagmentSection.cs",
+              "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\GymManagement\\SourceCode\\GymManagement\\TrainerAndTrainerType\\frmTrainerManagmentSection.cs",
+              "RelativeDocumentMoniker": "TrainerAndTrainerType\\frmTrainerManagmentSection.cs",
+              "ToolTip": "D:\\Real Life Projects with C# windowsform\\GymManagement\\SourceCode\\GymManagement\\TrainerAndTrainerType\\frmTrainerManagmentSection.cs",
+              "RelativeToolTip": "TrainerAndTrainerType\\frmTrainerManagmentSection.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAAASwIgAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T19:41:37.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "frmTrainerDetailes.cs",
+              "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\GymManagement\\SourceCode\\GymManagement\\TrainerAndTrainerType\\frmTrainerDetailes.cs",
+              "RelativeDocumentMoniker": "TrainerAndTrainerType\\frmTrainerDetailes.cs",
+              "ToolTip": "D:\\Real Life Projects with C# windowsform\\GymManagement\\SourceCode\\GymManagement\\TrainerAndTrainerType\\frmTrainerDetailes.cs",
+              "RelativeToolTip": "TrainerAndTrainerType\\frmTrainerDetailes.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAawCIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T13:58:40.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
               "Title": "MainForm.Designer.cs",
               "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\GymManagement\\SourceCode\\GymManagement\\MainForm.Designer.cs",
               "RelativeDocumentMoniker": "MainForm.Designer.cs",
@@ -286,91 +484,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "frmTrainerManagmentSection.cs [Design]",
-              "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\GymManagement\\SourceCode\\GymManagement\\TrainerAndTrainerType\\frmTrainerManagmentSection.cs",
-              "RelativeDocumentMoniker": "TrainerAndTrainerType\\frmTrainerManagmentSection.cs",
-              "ToolTip": "D:\\Real Life Projects with C# windowsform\\GymManagement\\SourceCode\\GymManagement\\TrainerAndTrainerType\\frmTrainerManagmentSection.cs [Design]",
-              "RelativeToolTip": "TrainerAndTrainerType\\frmTrainerManagmentSection.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-18T17:12:32.371Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "frmTrainerManagmentSection.cs",
-              "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\GymManagement\\SourceCode\\GymManagement\\TrainerAndTrainerType\\frmTrainerManagmentSection.cs",
-              "RelativeDocumentMoniker": "TrainerAndTrainerType\\frmTrainerManagmentSection.cs",
-              "ToolTip": "D:\\Real Life Projects with C# windowsform\\GymManagement\\SourceCode\\GymManagement\\TrainerAndTrainerType\\frmTrainerManagmentSection.cs",
-              "RelativeToolTip": "TrainerAndTrainerType\\frmTrainerManagmentSection.cs",
-              "ViewState": "AgIAAHsAAAAAAAAAAAASwIgAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-18T19:41:37.182Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "frmAddUpdateTrainerAndTrainerType.cs [Design]",
-              "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\GymManagement\\SourceCode\\GymManagement\\TrainerAndTrainerType\\frmAddUpdateTrainerAndTrainerType.cs",
-              "RelativeDocumentMoniker": "TrainerAndTrainerType\\frmAddUpdateTrainerAndTrainerType.cs",
-              "ToolTip": "D:\\Real Life Projects with C# windowsform\\GymManagement\\SourceCode\\GymManagement\\TrainerAndTrainerType\\frmAddUpdateTrainerAndTrainerType.cs [Design]",
-              "RelativeToolTip": "TrainerAndTrainerType\\frmAddUpdateTrainerAndTrainerType.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-17T13:10:17.867Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "frmAddUpdateTrainerAndTrainerType.cs",
-              "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\GymManagement\\SourceCode\\GymManagement\\TrainerAndTrainerType\\frmAddUpdateTrainerAndTrainerType.cs",
-              "RelativeDocumentMoniker": "TrainerAndTrainerType\\frmAddUpdateTrainerAndTrainerType.cs",
-              "ToolTip": "D:\\Real Life Projects with C# windowsform\\GymManagement\\SourceCode\\GymManagement\\TrainerAndTrainerType\\frmAddUpdateTrainerAndTrainerType.cs",
-              "RelativeToolTip": "TrainerAndTrainerType\\frmAddUpdateTrainerAndTrainerType.cs",
-              "ViewState": "AgIAAFgAAAAAAAAAAAAtwCIAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-17T13:50:22.516Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "frmTrainerDetailes.cs",
-              "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\GymManagement\\SourceCode\\GymManagement\\TrainerAndTrainerType\\frmTrainerDetailes.cs",
-              "RelativeDocumentMoniker": "TrainerAndTrainerType\\frmTrainerDetailes.cs",
-              "ToolTip": "D:\\Real Life Projects with C# windowsform\\GymManagement\\SourceCode\\GymManagement\\TrainerAndTrainerType\\frmTrainerDetailes.cs",
-              "RelativeToolTip": "TrainerAndTrainerType\\frmTrainerDetailes.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAawCIAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-18T13:58:40.921Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ctrlTrainerDetails.cs",
-              "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\GymManagement\\SourceCode\\GymManagement\\TrainerAndTrainerType\\Controls\\ctrlTrainerDetails.cs",
-              "RelativeDocumentMoniker": "TrainerAndTrainerType\\Controls\\ctrlTrainerDetails.cs",
-              "ToolTip": "D:\\Real Life Projects with C# windowsform\\GymManagement\\SourceCode\\GymManagement\\TrainerAndTrainerType\\Controls\\ctrlTrainerDetails.cs*",
-              "RelativeToolTip": "TrainerAndTrainerType\\Controls\\ctrlTrainerDetails.cs*",
-              "ViewState": "AgIAAOEAAAAAAAAAAAAAAOcAAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-18T10:42:58.213Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 25,
               "Title": "clsDataUsers.cs",
               "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\GymManagement\\SourceCode\\DataLayer\\clsDataUsers.cs",
               "RelativeDocumentMoniker": "..\\DataLayer\\clsDataUsers.cs",
@@ -382,7 +496,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 17,
               "Title": "clsTrainers.cs",
               "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\GymManagement\\SourceCode\\BusinessLayer\\clsTrainers.cs",
               "RelativeDocumentMoniker": "..\\BusinessLayer\\clsTrainers.cs",
@@ -390,12 +504,11 @@
               "RelativeToolTip": "..\\BusinessLayer\\clsTrainers.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAjwC8AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-03T21:35:36.479Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-03T21:35:36.479Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 16,
               "Title": "clsTrainerTypes.cs",
               "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\GymManagement\\SourceCode\\BusinessLayer\\clsTrainerTypes.cs",
               "RelativeDocumentMoniker": "..\\BusinessLayer\\clsTrainerTypes.cs",
@@ -403,12 +516,11 @@
               "RelativeToolTip": "..\\BusinessLayer\\clsTrainerTypes.cs",
               "ViewState": "AgIAADgAAAAAAAAAAAAhwEMAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-31T11:37:56.713Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-31T11:37:56.713Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 19,
               "Title": "frmLogin.cs",
               "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\GymManagement\\SourceCode\\GymManagement\\Login\\frmLogin.cs",
               "RelativeDocumentMoniker": "Login\\frmLogin.cs",
@@ -420,54 +532,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 18,
               "Title": "MainForm.cs [Design]",
               "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\GymManagement\\SourceCode\\GymManagement\\MainForm.cs",
               "RelativeDocumentMoniker": "MainForm.cs",
               "ToolTip": "D:\\Real Life Projects with C# windowsform\\GymManagement\\SourceCode\\GymManagement\\MainForm.cs [Design]",
               "RelativeToolTip": "MainForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-04T11:09:47.418Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-08-04T11:09:47.418Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "frmAddNewUpdateSubscriber.cs",
-              "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\GymManagement\\SourceCode\\GymManagement\\Subscribers\\frmAddNewUpdateSubscriber.cs",
-              "RelativeDocumentMoniker": "Subscribers\\frmAddNewUpdateSubscriber.cs",
-              "ToolTip": "D:\\Real Life Projects with C# windowsform\\GymManagement\\SourceCode\\GymManagement\\Subscribers\\frmAddNewUpdateSubscriber.cs",
-              "RelativeToolTip": "Subscribers\\frmAddNewUpdateSubscriber.cs",
-              "ViewState": "AgIAAEYBAAAAAAAAAAAqwEUBAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-31T11:15:19.941Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "MainForm.cs",
-              "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\GymManagement\\SourceCode\\GymManagement\\MainForm.cs",
-              "RelativeDocumentMoniker": "MainForm.cs",
-              "ToolTip": "D:\\Real Life Projects with C# windowsform\\GymManagement\\SourceCode\\GymManagement\\MainForm.cs",
-              "RelativeToolTip": "MainForm.cs",
-              "ViewState": "AgIAAJcAAAAAAAAAAAAlwKMAAABBAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-10T19:08:56.801Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "frmAddNewUpdateSubscriber.cs [Design]",
-              "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\GymManagement\\SourceCode\\GymManagement\\Subscribers\\frmAddNewUpdateSubscriber.cs",
-              "RelativeDocumentMoniker": "Subscribers\\frmAddNewUpdateSubscriber.cs",
-              "ToolTip": "D:\\Real Life Projects with C# windowsform\\GymManagement\\SourceCode\\GymManagement\\Subscribers\\frmAddNewUpdateSubscriber.cs [Design]",
-              "RelativeToolTip": "Subscribers\\frmAddNewUpdateSubscriber.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-30T15:37:28.883Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 21,
               "Title": "clsSubscriberAccounts.cs",
               "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\GymManagement\\SourceCode\\BusinessLayer\\clsSubscriberAccounts.cs",
               "RelativeDocumentMoniker": "..\\BusinessLayer\\clsSubscriberAccounts.cs",
@@ -479,7 +555,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 26,
               "Title": "frmLogin.cs [Design]",
               "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\GymManagement\\SourceCode\\GymManagement\\Login\\frmLogin.cs",
               "RelativeDocumentMoniker": "Login\\frmLogin.cs",
@@ -490,7 +566,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 27,
               "Title": "frmAddUpdateUser.cs",
               "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\GymManagement\\SourceCode\\GymManagement\\Users\\frmAddUpdateUser.cs",
               "RelativeDocumentMoniker": "Users\\frmAddUpdateUser.cs",
@@ -502,7 +578,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 23,
               "Title": "frmSalary.cs [Design]",
               "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\GymManagement\\SourceCode\\GymManagement\\SalaryHistroy\\frmSalary.cs",
               "RelativeDocumentMoniker": "SalaryHistroy\\frmSalary.cs",
@@ -513,7 +589,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 22,
               "Title": "frmSalary.cs",
               "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\GymManagement\\SourceCode\\GymManagement\\SalaryHistroy\\frmSalary.cs",
               "RelativeDocumentMoniker": "SalaryHistroy\\frmSalary.cs",
@@ -525,7 +601,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 24,
               "Title": "clsDataSubscriberAccounts.cs",
               "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\GymManagement\\SourceCode\\DataLayer\\clsDataSubscriberAccounts.cs",
               "RelativeDocumentMoniker": "..\\DataLayer\\clsDataSubscriberAccounts.cs",
@@ -537,7 +613,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 29,
               "Title": "frmUserManagement.cs [Design]",
               "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\GymManagement\\SourceCode\\GymManagement\\Users\\frmUserManagement.cs",
               "RelativeDocumentMoniker": "Users\\frmUserManagement.cs",
@@ -548,31 +624,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 30,
               "Title": "ctrlTrainerDetails.cs [Design]",
               "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\GymManagement\\SourceCode\\GymManagement\\TrainerAndTrainerType\\Controls\\ctrlTrainerDetails.cs",
               "RelativeDocumentMoniker": "TrainerAndTrainerType\\Controls\\ctrlTrainerDetails.cs",
-              "ToolTip": "D:\\Real Life Projects with C# windowsform\\GymManagement\\SourceCode\\GymManagement\\TrainerAndTrainerType\\Controls\\ctrlTrainerDetails.cs [Design]*",
-              "RelativeToolTip": "TrainerAndTrainerType\\Controls\\ctrlTrainerDetails.cs [Design]*",
+              "ToolTip": "D:\\Real Life Projects with C# windowsform\\GymManagement\\SourceCode\\GymManagement\\TrainerAndTrainerType\\Controls\\ctrlTrainerDetails.cs [Design]",
+              "RelativeToolTip": "TrainerAndTrainerType\\Controls\\ctrlTrainerDetails.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-18T10:31:26.877Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-08-18T10:31:26.877Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 31,
               "Title": "frmTrainerDetailes.cs [Design]",
               "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\GymManagement\\SourceCode\\GymManagement\\TrainerAndTrainerType\\frmTrainerDetailes.cs",
               "RelativeDocumentMoniker": "TrainerAndTrainerType\\frmTrainerDetailes.cs",
               "ToolTip": "D:\\Real Life Projects with C# windowsform\\GymManagement\\SourceCode\\GymManagement\\TrainerAndTrainerType\\frmTrainerDetailes.cs [Design]",
               "RelativeToolTip": "TrainerAndTrainerType\\frmTrainerDetailes.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-18T10:28:13.164Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-08-18T10:28:13.164Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 28,
               "Title": "frmAddUpdateUser.cs [Design]",
               "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\GymManagement\\SourceCode\\GymManagement\\Users\\frmAddUpdateUser.cs",
               "RelativeDocumentMoniker": "Users\\frmAddUpdateUser.cs",
@@ -583,7 +657,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 32,
               "Title": "frmAddUpdateSubscription.cs [Design]",
               "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\GymManagement\\SourceCode\\GymManagement\\Subscriptions\\frmAddUpdateSubscription.cs",
               "RelativeDocumentMoniker": "Subscriptions\\frmAddUpdateSubscription.cs",
@@ -594,7 +668,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 33,
               "Title": "frmUserManagement.cs",
               "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\GymManagement\\SourceCode\\GymManagement\\Users\\frmUserManagement.cs",
               "RelativeDocumentMoniker": "Users\\frmUserManagement.cs",
@@ -606,30 +680,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "ctrlPersonCard.cs [Design]",
-              "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\ctrlPersonCard\\ctrlPersonCard\\ctrlPersonCard.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\ctrlPersonCard\\ctrlPersonCard\\ctrlPersonCard.cs",
-              "ToolTip": "D:\\Real Life Projects with C# windowsform\\ctrlPersonCard\\ctrlPersonCard\\ctrlPersonCard.cs [Design]",
-              "RelativeToolTip": "..\\..\\..\\ctrlPersonCard\\ctrlPersonCard\\ctrlPersonCard.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-19T19:38:04.291Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "ctrlPersonCard.cs",
-              "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\ctrlPersonCard\\ctrlPersonCard\\ctrlPersonCard.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\ctrlPersonCard\\ctrlPersonCard\\ctrlPersonCard.cs",
-              "ToolTip": "D:\\Real Life Projects with C# windowsform\\ctrlPersonCard\\ctrlPersonCard\\ctrlPersonCard.cs",
-              "RelativeToolTip": "..\\..\\..\\ctrlPersonCard\\ctrlPersonCard\\ctrlPersonCard.cs",
-              "ViewState": "AgIAAC0AAAAAAAAAAAA7wAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-19T19:52:42.685Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 37,
               "Title": "ctrlUserCard.cs [Design]",
               "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\GymManagement\\SourceCode\\GymManagement\\Users\\ctrlUserCard.cs",
               "RelativeDocumentMoniker": "Users\\ctrlUserCard.cs",
@@ -640,7 +691,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 36,
               "Title": "ctrlUserCard.cs",
               "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\GymManagement\\SourceCode\\GymManagement\\Users\\ctrlUserCard.cs",
               "RelativeDocumentMoniker": "Users\\ctrlUserCard.cs",
@@ -652,7 +703,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 35,
               "Title": "frmUserDetails.cs [Design]",
               "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\GymManagement\\SourceCode\\GymManagement\\Users\\frmUserDetails.cs",
               "RelativeDocumentMoniker": "Users\\frmUserDetails.cs",
@@ -663,7 +714,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 34,
               "Title": "frmUserDetails.cs",
               "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\GymManagement\\SourceCode\\GymManagement\\Users\\frmUserDetails.cs",
               "RelativeDocumentMoniker": "Users\\frmUserDetails.cs",
@@ -675,7 +726,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 38,
               "Title": "frmSubscrptionDetails.cs [Design]",
               "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\GymManagement\\SourceCode\\GymManagement\\Subscriptions\\frmSubscrptionDetails.cs",
               "RelativeDocumentMoniker": "Subscriptions\\frmSubscrptionDetails.cs",
@@ -686,7 +737,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 39,
               "Title": "frmSubscriptionManagement.cs [Design]",
               "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\GymManagement\\SourceCode\\GymManagement\\Subscriptions\\frmSubscriptionManagement.cs",
               "RelativeDocumentMoniker": "Subscriptions\\frmSubscriptionManagement.cs",
@@ -697,7 +748,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 40,
               "Title": "frmSubscribersWithTrainer.cs [Design]",
               "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\GymManagement\\SourceCode\\GymManagement\\Subscribers\\frmSubscribersWithTrainer.cs",
               "RelativeDocumentMoniker": "Subscribers\\frmSubscribersWithTrainer.cs",
@@ -708,7 +759,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 41,
               "Title": "FrmSubscriberManagement.cs [Design]",
               "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\GymManagement\\SourceCode\\GymManagement\\Subscribers\\FrmSubscriberManagement.cs",
               "RelativeDocumentMoniker": "Subscribers\\FrmSubscriberManagement.cs",
@@ -719,7 +770,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 42,
               "Title": "frmFindSubscriberInfo.cs [Design]",
               "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\GymManagement\\SourceCode\\GymManagement\\Subscribers\\frmFindSubscriberInfo.cs",
               "RelativeDocumentMoniker": "Subscribers\\frmFindSubscriberInfo.cs",
@@ -730,7 +781,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 43,
               "Title": "frmFindSubscriberInfo.cs",
               "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\GymManagement\\SourceCode\\GymManagement\\Subscribers\\frmFindSubscriberInfo.cs",
               "RelativeDocumentMoniker": "Subscribers\\frmFindSubscriberInfo.cs",
@@ -742,7 +793,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 44,
               "Title": "ctrlFindSubscriber.cs [Design]",
               "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\GymManagement\\SourceCode\\GymManagement\\Subscribers\\Controls\\ctrlFindSubscriber.cs",
               "RelativeDocumentMoniker": "Subscribers\\Controls\\ctrlFindSubscriber.cs",
@@ -753,19 +804,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "ctrlFindSubscriber.cs",
-              "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\GymManagement\\SourceCode\\GymManagement\\Subscribers\\Controls\\ctrlFindSubscriber.cs",
-              "RelativeDocumentMoniker": "Subscribers\\Controls\\ctrlFindSubscriber.cs",
-              "ToolTip": "D:\\Real Life Projects with C# windowsform\\GymManagement\\SourceCode\\GymManagement\\Subscribers\\Controls\\ctrlFindSubscriber.cs",
-              "RelativeToolTip": "Subscribers\\Controls\\ctrlFindSubscriber.cs",
-              "ViewState": "AgIAAOEAAAAAAAAAAAA+wGEAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-10T11:29:27.575Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 45,
               "Title": "ctrlFindSubscriber.Designer.cs",
               "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\GymManagement\\SourceCode\\GymManagement\\Subscribers\\Controls\\ctrlFindSubscriber.Designer.cs",
               "RelativeDocumentMoniker": "Subscribers\\Controls\\ctrlFindSubscriber.Designer.cs",
@@ -777,7 +816,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 46,
               "Title": "frmUserDetails.Designer.cs",
               "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\GymManagement\\SourceCode\\GymManagement\\Users\\frmUserDetails.Designer.cs",
               "RelativeDocumentMoniker": "Users\\frmUserDetails.Designer.cs",
@@ -789,7 +828,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 47,
               "Title": "ctrlUserCard.Designer.cs",
               "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\GymManagement\\SourceCode\\GymManagement\\Users\\ctrlUserCard.Designer.cs",
               "RelativeDocumentMoniker": "Users\\ctrlUserCard.Designer.cs",
@@ -801,7 +840,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 48,
               "Title": "ctrlTrainerDetails.Designer.cs",
               "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\GymManagement\\SourceCode\\GymManagement\\TrainerAndTrainerType\\Controls\\ctrlTrainerDetails.Designer.cs",
               "RelativeDocumentMoniker": "TrainerAndTrainerType\\Controls\\ctrlTrainerDetails.Designer.cs",
@@ -809,12 +848,11 @@
               "RelativeToolTip": "TrainerAndTrainerType\\Controls\\ctrlTrainerDetails.Designer.cs",
               "ViewState": "AgIAAGkBAAAAAAAAAAASwHsBAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-18T14:43:15.379Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-18T14:43:15.379Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 49,
               "Title": "clsGlobal.cs",
               "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\GymManagement\\SourceCode\\GymManagement\\GlobalClasses\\clsGlobal.cs",
               "RelativeDocumentMoniker": "GlobalClasses\\clsGlobal.cs",
@@ -826,7 +864,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 50,
               "Title": "clsDataAccessSettings.cs",
               "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\GymManagement\\SourceCode\\DataLayer\\clsDataAccessSettings.cs",
               "RelativeDocumentMoniker": "..\\DataLayer\\clsDataAccessSettings.cs",
@@ -838,7 +876,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 52,
               "Title": "FrmSubscriberManagement.cs",
               "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\GymManagement\\SourceCode\\GymManagement\\Subscribers\\FrmSubscriberManagement.cs",
               "RelativeDocumentMoniker": "Subscribers\\FrmSubscriberManagement.cs",
@@ -850,7 +888,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 51,
               "Title": "clsDataTrainerTypes.cs",
               "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\GymManagement\\SourceCode\\DataLayer\\clsDataTrainerTypes.cs",
               "RelativeDocumentMoniker": "..\\DataLayer\\clsDataTrainerTypes.cs",
@@ -862,7 +900,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 53,
               "Title": "clsDataPerson.cs",
               "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\GymManagement\\SourceCode\\DataLayer\\clsDataPerson.cs",
               "RelativeDocumentMoniker": "..\\DataLayer\\clsDataPerson.cs",
@@ -874,7 +912,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 54,
               "Title": "clsPerson.cs",
               "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\GymManagement\\SourceCode\\BusinessLayer\\clsPerson.cs",
               "RelativeDocumentMoniker": "..\\BusinessLayer\\clsPerson.cs",
@@ -886,19 +924,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
-              "Title": "clsDataFormat.cs",
-              "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\GymManagement\\SourceCode\\GymManagement\\GlobalClasses\\clsDataFormat.cs",
-              "RelativeDocumentMoniker": "GlobalClasses\\clsDataFormat.cs",
-              "ToolTip": "D:\\Real Life Projects with C# windowsform\\GymManagement\\SourceCode\\GymManagement\\GlobalClasses\\clsDataFormat.cs",
-              "RelativeToolTip": "GlobalClasses\\clsDataFormat.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-11T10:02:24.75Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 55,
               "Title": "Util.cs",
               "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\GymManagement\\SourceCode\\GymManagement\\GlobalClasses\\Util.cs",
               "RelativeDocumentMoniker": "GlobalClasses\\Util.cs",
@@ -910,7 +936,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 56,
               "Title": "clsValidation.cs",
               "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\GymManagement\\SourceCode\\GymManagement\\GlobalClasses\\clsValidation.cs",
               "RelativeDocumentMoniker": "GlobalClasses\\clsValidation.cs",
@@ -922,7 +948,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 57,
               "Title": "clsUsers.cs",
               "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\GymManagement\\SourceCode\\BusinessLayer\\clsUsers.cs",
               "RelativeDocumentMoniker": "..\\BusinessLayer\\clsUsers.cs",
@@ -934,19 +960,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\GymManagement\\SourceCode\\GymManagement\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\Real Life Projects with C# windowsform\\GymManagement\\SourceCode\\GymManagement\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAjwBAAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-10T19:15:09.703Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 58,
               "Title": "App.config",
               "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\GymManagement\\SourceCode\\GymManagement\\App.config",
               "RelativeDocumentMoniker": "App.config",
@@ -954,12 +968,11 @@
               "RelativeToolTip": "App.config",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-08-10T19:38:38.936Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-10T19:38:38.936Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 59,
               "Title": "clsDateTrainers.cs",
               "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\GymManagement\\SourceCode\\DataLayer\\clsDateTrainers.cs",
               "RelativeDocumentMoniker": "..\\DataLayer\\clsDateTrainers.cs",
@@ -971,19 +984,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 58,
-              "Title": "clsDataSubscriptions.cs",
-              "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\GymManagement\\SourceCode\\DataLayer\\clsDataSubscriptions.cs",
-              "RelativeDocumentMoniker": "..\\DataLayer\\clsDataSubscriptions.cs",
-              "ToolTip": "D:\\Real Life Projects with C# windowsform\\GymManagement\\SourceCode\\DataLayer\\clsDataSubscriptions.cs",
-              "RelativeToolTip": "..\\DataLayer\\clsDataSubscriptions.cs",
-              "ViewState": "AgIAAL4AAAAAAAAAAADgv8gAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-20T21:49:48.932Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 59,
+              "DocumentIndex": 60,
               "Title": "frmSubscrptionDetails.cs",
               "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\GymManagement\\SourceCode\\GymManagement\\Subscriptions\\frmSubscrptionDetails.cs",
               "RelativeDocumentMoniker": "Subscriptions\\frmSubscrptionDetails.cs",
@@ -995,7 +996,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 60,
+              "DocumentIndex": 61,
               "Title": "frmSubscriptionManagement.cs",
               "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\GymManagement\\SourceCode\\GymManagement\\Subscriptions\\frmSubscriptionManagement.cs",
               "RelativeDocumentMoniker": "Subscriptions\\frmSubscriptionManagement.cs",
@@ -1004,18 +1005,6 @@
               "ViewState": "AgIAAFEAAAAAAAAAAIAwwHsAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-25T11:19:34.838Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 61,
-              "Title": "clsSubscriptions.cs",
-              "DocumentMoniker": "D:\\Real Life Projects with C# windowsform\\GymManagement\\SourceCode\\BusinessLayer\\clsSubscriptions.cs",
-              "RelativeDocumentMoniker": "..\\BusinessLayer\\clsSubscriptions.cs",
-              "ToolTip": "D:\\Real Life Projects with C# windowsform\\GymManagement\\SourceCode\\BusinessLayer\\clsSubscriptions.cs",
-              "RelativeToolTip": "..\\BusinessLayer\\clsSubscriptions.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAewC4AAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-24T22:21:58.236Z"
             },
             {
               "$type": "Document",

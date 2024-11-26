@@ -95,7 +95,7 @@ namespace GymManagement.Subscribers.Controls
                         if (_SubscriberAccount == null)
                             return;
                         ctrlPersonCard1.LoadPersonInfo(_SubscriberAccount.PersonID);
-                     
+                        
                         break;
 
                        }
